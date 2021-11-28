@@ -1,3 +1,3 @@
 # Logistic-Regression-from-Scratch
 We implement logistic regression from scratch using Julia
-[embed]"unfinished paper.pdf[/embed]
+[embed]"unfinished paper.pdf"[/embed]
