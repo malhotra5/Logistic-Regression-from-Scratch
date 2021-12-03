@@ -13,6 +13,6 @@ This repo will outline all the code that is used to implement logistic regressio
 # Results
 
 Binary classification - 
-![](./images/singleCost.jpg)  
+![](./images/singleCost.png)  
 
 One VS All Classification - 
