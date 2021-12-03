@@ -8,3 +8,11 @@ Files in this repo -
 
 # Introduction
 This repo will outline all the code that is used to implement logistic regression from scratch
+
+
+# Results
+
+Binary classification - 
+![](./images/singleCost.jpg)  
+
+One VS All Classification - 
