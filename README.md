@@ -12,7 +12,17 @@ This repo will outline all the code that is used to implement logistic regressio
 
 # Results
 
-Binary classification - 
+Binary classification - <br>
 ![](./images/singleCost.png)  
 
-One VS All Classification - 
+One VS All Classification - <br>
+![](./images/manyCost.png)
+
+PCA Visualizations - <br>
+![](./images/2DPCA.png)
+
+![](./images/3DPCA1.png)
+
+![](./images/3DPCA2.png)
+
+![](./images/3DPCA3.png)
